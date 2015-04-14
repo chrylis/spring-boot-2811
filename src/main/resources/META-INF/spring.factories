@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+	com.chrylis.sprboot2811.autoconfiguration.SpringBoot2811FirstAutoConfiguration,com.chrylis.sprboot2811.autoconfiguration.SpringBoot2811AutoConfiguration
